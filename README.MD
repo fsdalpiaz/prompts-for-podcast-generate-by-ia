@@ -96,12 +96,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 Nota: realizado fork, substituúdo arquivos do projeto Podcast Pythoniando Dados criado por Filipe Souza Dalpiaz
 
-<img
-
+<p align="center">
+<img 
     src="./assets/capaPodcast.png"
     width="300"
-
 />
+</p>
 
 
 
