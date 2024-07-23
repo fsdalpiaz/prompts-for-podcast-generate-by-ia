@@ -103,6 +103,21 @@ Nota: realizado fork, substituúdo arquivos do projeto Podcast Pythoniando Dados
 />
 </p>
 
-
+<p>
+    <p>&nbsp&nbsp&nbspFilipe Dalpiaz<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/fsdalpiaz">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="www.linkedin.com/in/filipesdalpiaz">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 
 ---
