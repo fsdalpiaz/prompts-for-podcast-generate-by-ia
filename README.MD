@@ -94,6 +94,15 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <br/><br/>
 <p>
 
-Nota: realizado fork, substituúdo arquivos pelo projeto criado por Filipe Souza Dalpiaz
+Nota: realizado fork, substituúdo arquivos do projeto Podcast Pythoniando Dados criado por Filipe Souza Dalpiaz
+
+<img
+
+    src="./assets/capaPodcast.png"
+    width="300"
+
+/>
+
+
 
 ---
